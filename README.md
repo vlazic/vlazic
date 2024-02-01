@@ -1,4 +1,4 @@
-# Fullstack Software Engineer Portfolio
+# Fullstack Software Engineer
 
 ## About Me
 
