@@ -8,7 +8,7 @@
 
 ## Skills
 
-- **Frontend Development:** Advanced proficiency in React, VueJS, and TypeScript. I have a history of building intuitive and responsive web applications. I also have experience with React Native with Expo for mobile development.
+- **Frontend Development:** Advanced proficiency in React, and TypeScript. I have a history of building intuitive and responsive web applications. I also have experience with React Native with Expo for mobile development.
 - **Backend Development:** Proficient in Node.js and TypeScript, with experience in AWS cloud services. I also have additional expertise in Golang, PHP, and Python.
 - **DevOps and Scripting:** A 20-year Linux user experienced in setting up servers from the ground up. Skilled in Docker, Ansible, Vagrant, Bash scripting, GitHub Actions, and BitBucket Pipelines.
 - **Mentorship and Leadership:** Experienced in mentoring young programmers and leading developer teams, sharing knowledge, and fostering growth.
