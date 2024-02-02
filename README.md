@@ -1,7 +1,7 @@
 ## About Me
 
 - 🌱 I'm a passionate learner, constantly exploring new technologies and frameworks to enhance my skill set.
-- 🏞️ When I'm not coding, you might find me hiking, exploring the great outdoors, or working on personal development projects.
+- 🏞️ When I'm not coding, you might find me hiking, exploring the great outdoors, or working on personal dev projects and experiments.
 - 📚 In 2023, I took a sabbatical to focus on learning Golang, mobile development using React Native, and AI applications centered around OpenAI's solutions.
 
 ## Skills
