@@ -1,5 +1,3 @@
-# Fullstack Software Engineer
-
 ## About Me
 
 - 🌱 I'm a passionate learner, constantly exploring new technologies and frameworks to enhance my skill set.
@@ -18,6 +16,4 @@
 - **LinkedIn:** [vladimir-lazic](https://www.linkedin.com/in/vladimir-lazic)
 - **Website:** [vlazic.com](https://vlazic.com)
 
-Thank you for visiting my profile. I'm always open to collaborating on projects or sharing insights on technology and software development.
-
-Feel free to reach out!
+Feel free to reach out! 🤓👍
